@@ -1,2 +1,3 @@
 # python_scrapy_playwright_use
 爬虫项目
+爬取网页中的表格数据等
